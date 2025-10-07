@@ -51,7 +51,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: Nivelación de la nube
     icon: "./media/icon-tiering.png"
-    url: "../data-services-tiering/index.html"
+    url: "../data-services-cloud-tiering/index.html"
     summary: Consiga una capacidad continuamente disponible moviendo automáticamente
       datos fríos a un almacenamiento de objetos de bajo costo.
     tags: all,aws,azure,gcp,mobility
@@ -81,7 +81,7 @@ product-family:
     tags: all,mobility
   - title: Almacenamiento en caché de volumen
     icon: "./media/icon-volume-caching.png"
-    url: "../data-services-volume-caching/index.html"
+    url: "../console-volume-caching/index.html"
     summary: Cree un volumen de caché escribible para acelerar el acceso a los datos
       o descargar el tráfico de volúmenes con mucho acceso.
     tags: all,mobility
