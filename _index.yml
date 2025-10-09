@@ -1,8 +1,8 @@
 ---
 product-family:
   title: Servicios de datos de NetApp
-  lead: Acceda a los servicios de datos de NetApp a través de la consola de NetApp
-    para proteger su infraestructura de datos.
+  lead: Acceda a los servicios de datos de NetApp a través de la NetApp Console para
+    proteger su infraestructura de datos.
   summary: Acceda a los servicios de datos de NetApp a través de la consola de NetApp
     para proteger su infraestructura de datos.
   sidebarlinks:
@@ -15,7 +15,7 @@ product-family:
     tags: protection
   - title: Gobernancia
     tags: governance
-  - title: Consola de NetApp
+  - title: NetApp Console
     tags: console
   - title: Gestión de almacenamiento
     tags: storage-management
@@ -25,19 +25,18 @@ product-family:
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: Descubra las novedades de NetApp Console y NetApp Data Services.
+    summary: Conozca las novedades de NetApp Console y NetApp Data Services.
     tags: all
-  - title: Consola de NetApp
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Utilice la consola de NetApp para administrar la gestión de identidad
-      y acceso, implementar agentes y más.
+    summary: Utilice la NetApp Console para administrar la gestión de identidad y
+      acceso, implementar agentes y más.
     tags: all,console
   - title: Gestión de almacenamiento
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
-    summary: Administre sus sistemas de almacenamiento a través de la consola NetApp
-      .
+    summary: Administre sus sistemas de almacenamiento a través de la NetApp Console.
     tags: storage-management
   - title: Copia de seguridad y recuperación
     icon: "./media/icon-backup.png"
@@ -91,5 +90,5 @@ product-family:
     icon: "./media/icon-workloads.png"
     url: "../workload-family"
     summary: Automatice el aprovisionamiento, la gobernanza y el ciclo de vida de
-      FSx para ONTAP.  Explore el ahorro de costes y la gestión avanzada.
+      FSx para ONTAP. Explore el ahorro de costes y la gestión avanzada.
     tags: all,workloads
