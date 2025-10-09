@@ -22,27 +22,5 @@ settings:
   langs: es-es,us-en,de-de,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
 sidebar:
   entries:
-  - title: Consola de NetApp
-    url: "../console-setup-admin/index.html"
-  - title: Gestión de almacenamiento
-    url: "../storage-management-family/index.html"
-  - title: Notas de la versión
-    url: "../console-relnotes/index.html"
-  - title: Copia de seguridad y recuperación
-    url: "../data-services-backup-recovery/index.html"
-  - title: Nivelación de la nube
-    url: "../data-services-cloud-tiering/index.html"
-  - title: Copiar y sincronizar
-    url: "../data-services-copy-sync/index.html"
-  - title: Clasificación de datos
-    url: "../data-services-data-classification/index.html"
-  - title: Recuperación ante desastres
-    url: "../data-services-disaster-recovery/index.html"
-  - title: Resiliencia frente al ransomware
-    url: "../data-services-ransomware-resilience/index.html"
-  - title: Replicación
-    url: "../data-services-replication/index.html"
-  - title: Almacenamiento en caché de volumen
-    url: "../data-services-volume-caching/index.html"
-  - title: Cargas de trabajo
-    url: "../workload-family"
+  - title: Servicios de datos de NetApp
+    url: "/index.html"
