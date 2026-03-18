@@ -20,7 +20,7 @@ product-family:
   - title: Gestión de almacenamiento
     tags: storage-management
   - title: Cargas de trabajo
-    tags: migrations
+    tags: workloads
   tiles:
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
@@ -37,7 +37,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
     summary: Administre sus sistemas de almacenamiento a través de la NetApp Console.
-    tags: storage-management
+    tags: all, storage-management
   - title: Copia de seguridad y recuperación
     icon: "./media/icon-backup.png"
     url: "../data-services-backup-recovery/index.html"
